@@ -1,0 +1,7 @@
+Le numéro de réservation est le 2.
+La date de réservation est le Fri Feb 10 12:17:13 CET 2023.
+Le voyageur est : LaCartouche  Willou .
+Pour une durée de 2 nuits.
+Un total de 2 voyageurs.
+Le logement est : lebreton.airbnb.logement.Maison@5c7fa833.
+Le tarif est de : 100€.
